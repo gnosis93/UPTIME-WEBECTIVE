@@ -22,17 +22,19 @@
     "url": "http://54.179.176.187/",
     "icon": "https://favicons.githubusercontent.com/54.179.176.187",
     "slug": "and-burger",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 1258,
     "timeDay": 1258,
     "timeWeek": 1258,
     "timeMonth": 1258,
     "timeYear": 1258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-24": 0
+    }
   }
 ]

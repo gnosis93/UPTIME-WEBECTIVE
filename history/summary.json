@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
-    "timeDay": 1937,
-    "timeWeek": 1937,
-    "timeMonth": 1937,
-    "timeYear": 1937,
+    "time": 2006,
+    "timeDay": 2006,
+    "timeWeek": 2006,
+    "timeMonth": 2006,
+    "timeYear": 2006,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/54.179.176.187",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "68.85%",
-    "uptimeDay": "68.85%",
-    "uptimeWeek": "68.85%",
-    "uptimeMonth": "68.85%",
-    "uptimeYear": "68.85%",
-    "time": 1112,
-    "timeDay": 1112,
-    "timeWeek": 1112,
-    "timeMonth": 1112,
-    "timeYear": 1112,
+    "uptime": "94.11%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "94.11%",
+    "time": 1122,
+    "timeDay": 1122,
+    "timeWeek": 1122,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {
-      "2021-07-24": 53
+      "2021-07-24": 47
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 992,
-    "timeWeek": 992,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "time": 980,
+    "timeDay": 980,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   }
 ]

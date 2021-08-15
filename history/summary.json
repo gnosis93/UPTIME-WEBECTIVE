@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1864,
-    "timeDay": 1684,
-    "timeWeek": 1702,
-    "timeMonth": 1864,
-    "timeYear": 1864,
+    "time": 1861,
+    "timeDay": 1774,
+    "timeWeek": 1705,
+    "timeMonth": 1861,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
-    "time": 1324,
-    "timeDay": 1337,
-    "timeWeek": 1171,
-    "timeMonth": 1324,
-    "timeYear": 1324,
+    "time": 1341,
+    "timeDay": 1587,
+    "timeWeek": 1253,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2021-07-25": 48,
       "2021-07-24": 47
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 875,
-    "timeDay": 838,
-    "timeWeek": 809,
-    "timeMonth": 875,
-    "timeYear": 875,
+    "time": 876,
+    "timeDay": 884,
+    "timeWeek": 824,
+    "timeMonth": 876,
+    "timeYear": 876,
     "dailyMinutesDown": {}
   },
   {
@@ -62,18 +62,18 @@
     "icon": "https://favicons.githubusercontent.com/money.hotdogcondos.com",
     "slug": "and-burger-money-system",
     "status": "up",
-    "uptime": "80.11%",
-    "uptimeDay": "80.11%",
-    "uptimeWeek": "80.11%",
-    "uptimeMonth": "80.11%",
-    "uptimeYear": "80.11%",
-    "time": 1263,
-    "timeDay": 1263,
-    "timeWeek": 1263,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "uptime": "90.45%",
+    "uptimeDay": "90.45%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
+    "time": 1270,
+    "timeDay": 1270,
+    "timeWeek": 1270,
+    "timeMonth": 1270,
+    "timeYear": 1270,
     "dailyMinutesDown": {
-      "2021-08-14": 47
+      "2021-08-14": 42
     }
   }
 ]

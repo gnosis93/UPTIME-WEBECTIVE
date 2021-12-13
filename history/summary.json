@@ -107,19 +107,19 @@
     "url": "https://bills-bags.com/",
     "icon": "https://favicons.githubusercontent.com/bills-bags.com",
     "slug": "bill-bags",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1400,
-    "timeDay": 1411,
-    "timeWeek": 1400,
-    "timeMonth": 1400,
-    "timeYear": 1400,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 1358,
+    "timeDay": 1321,
+    "timeWeek": 1358,
+    "timeMonth": 1358,
+    "timeYear": 1358,
     "dailyMinutesDown": {
-      "2021-12-13": 0
+      "2021-12-13": 14
     }
   },
   {

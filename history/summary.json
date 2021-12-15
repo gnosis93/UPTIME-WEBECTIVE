@@ -87,11 +87,11 @@
     "icon": "https://favicons.githubusercontent.com/rough.dog",
     "slug": "rough-dog",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1398,
     "timeDay": 1320,
     "timeWeek": 1312,
@@ -125,9 +125,9 @@
     "url": "https://webective.com/",
     "icon": "https://favicons.githubusercontent.com/webective.com",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,6 +136,8 @@
     "timeWeek": 274,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   }
 ]

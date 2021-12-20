@@ -45,19 +45,19 @@
     "url": "https://forestpoolvillaspattaya.com/",
     "icon": "https://favicons.githubusercontent.com/forestpoolvillaspattaya.com",
     "slug": "forest-pool-villas-pattaya",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 826,
-    "timeWeek": 820,
-    "timeMonth": 840,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.91%",
+    "time": 846,
+    "timeDay": 1167,
+    "timeWeek": 906,
+    "timeMonth": 861,
+    "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-12-20": 0
+      "2021-12-20": 190
     }
   },
   {

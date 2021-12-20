@@ -45,9 +45,9 @@
     "url": "https://forestpoolvillaspattaya.com/",
     "icon": "https://favicons.githubusercontent.com/forestpoolvillaspattaya.com",
     "slug": "forest-pool-villas-pattaya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 820,
     "timeMonth": 840,
     "timeYear": 842,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "AndBurger MONEY SYSTEM",

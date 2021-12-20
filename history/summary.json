@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/andburger.in.th",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 1906,
     "timeDay": 2730,
     "timeWeek": 2774,
@@ -127,9 +127,9 @@
     "url": "https://webective.com/",
     "icon": "https://favicons.githubusercontent.com/webective.com",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +138,8 @@
     "timeWeek": 180,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   }
 ]

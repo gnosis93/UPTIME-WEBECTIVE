@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/andburger.in.th",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 1926,
     "timeDay": 2576,
     "timeWeek": 2864,
@@ -109,9 +109,9 @@
     "url": "https://bills-bags.com/",
     "icon": "https://favicons.githubusercontent.com/bills-bags.com",
     "slug": "bill-bags",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -120,7 +120,9 @@
     "timeWeek": 1412,
     "timeMonth": 1343,
     "timeYear": 1343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-23": 0
+    }
   },
   {
     "name": "Webective",

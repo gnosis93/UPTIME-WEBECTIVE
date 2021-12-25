@@ -66,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/money.hotdogcondos.com",
     "slug": "and-burger-money-system",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1123,
     "timeDay": 956,
     "timeWeek": 1017,
@@ -109,9 +109,9 @@
     "url": "https://bills-bags.com/",
     "icon": "https://favicons.githubusercontent.com/bills-bags.com",
     "slug": "bill-bags",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -121,6 +121,7 @@
     "timeMonth": 1381,
     "timeYear": 1381,
     "dailyMinutesDown": {
+      "2021-12-25": 0,
       "2021-12-23": 18
     }
   },

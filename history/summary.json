@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/andburger.in.th",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1938,
     "timeDay": 2588,
     "timeWeek": 2840,
@@ -109,9 +109,9 @@
     "url": "https://bills-bags.com/",
     "icon": "https://favicons.githubusercontent.com/bills-bags.com",
     "slug": "bill-bags",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "98.77%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.82%",
@@ -121,6 +121,7 @@
     "timeMonth": 1368,
     "timeYear": 1368,
     "dailyMinutesDown": {
+      "2021-12-26": 0,
       "2021-12-25": 18,
       "2021-12-23": 18
     }

@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/andburger.in.th",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 2154,
     "timeDay": 2845,
     "timeWeek": 2841,
@@ -48,18 +48,18 @@
     "icon": "https://favicons.githubusercontent.com/forestpoolvillaspattaya.com",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "75.24%",
+    "uptime": "74.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.24%",
+    "uptimeYear": "74.98%",
     "time": 843,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2022-02-21": 27,
+      "2022-02-21": 1065,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
@@ -186,9 +186,9 @@
     "url": "https://webective.com/",
     "icon": "https://favicons.githubusercontent.com/webective.com",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,6 +197,8 @@
     "timeWeek": 201,
     "timeMonth": 157,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]

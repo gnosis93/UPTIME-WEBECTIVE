@@ -48,18 +48,18 @@
     "icon": "https://favicons.githubusercontent.com/forestpoolvillaspattaya.com",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "58.06%",
+    "uptime": "58.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.06%",
+    "uptimeYear": "58.05%",
     "time": 843,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2022-04-24": 866,
+      "2022-04-24": 875,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
@@ -250,19 +250,19 @@
     "url": "https://webective.com/",
     "icon": "https://favicons.githubusercontent.com/webective.com",
     "slug": "webective",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 146,
-    "timeWeek": 145,
+    "timeDay": 155,
+    "timeWeek": 148,
     "timeMonth": 169,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-04-24": 0
+      "2022-04-24": 9
     }
   }
 ]

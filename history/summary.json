@@ -24,9 +24,9 @@
     "url": "https://andburger.in.th/",
     "icon": "https://favicons.githubusercontent.com/andburger.in.th",
     "slug": "and-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
@@ -36,6 +36,7 @@
     "timeMonth": 2917,
     "timeYear": 2310,
     "dailyMinutesDown": {
+      "2022-04-24": 0,
       "2021-10-17": 670,
       "2021-10-16": 470,
       "2021-07-25": 48,
@@ -59,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2022-04-24": 875,
+      "2022-04-24": 884,
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
@@ -252,17 +253,15 @@
     "slug": "webective",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 155,
     "timeWeek": 148,
     "timeMonth": 169,
     "timeYear": 167,
-    "dailyMinutesDown": {
-      "2022-04-24": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]

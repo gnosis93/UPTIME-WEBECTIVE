@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1904,
     "dailyMinutesDown": {
-      "2023-07-25": 698,
+      "2023-07-25": 704,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -387,7 +387,7 @@
     "timeMonth": 906,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2023-07-25": 698,
+      "2023-07-25": 704,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -464,7 +464,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 698,
+      "2023-07-25": 704,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -848,7 +848,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-25": 698,
+      "2023-07-25": 704,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -1232,7 +1232,7 @@
     "timeMonth": 0,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2023-07-25": 698,
+      "2023-07-25": 704,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -1619,19 +1619,19 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 175,
-    "timeWeek": 179,
+    "time": 276,
+    "timeDay": 166,
+    "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2023-07-25": 0,
+      "2023-07-25": 6,
       "2022-08-31": 20
     }
   }

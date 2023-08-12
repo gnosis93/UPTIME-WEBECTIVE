@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hotdogcondos.com.ico",
     "slug": "hot-dog-condos",
     "status": "down",
-    "uptime": "49.31%",
+    "uptime": "49.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1835,
+    "time": 1838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 123,
+      "2023-08-12": 28,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -379,8 +380,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "down",
-    "uptime": "90.02%",
+    "uptime": "89.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.91%",
-    "time": 1551,
-    "timeDay": 790,
-    "timeWeek": 903,
-    "timeMonth": 925,
-    "timeYear": 1491,
+    "uptimeYear": "79.66%",
+    "time": 1546,
+    "timeDay": 872,
+    "timeWeek": 874,
+    "timeMonth": 920,
+    "timeYear": 1489,
     "dailyMinutesDown": {
-      "2023-08-11": 123,
+      "2023-08-12": 28,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -483,7 +484,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestpoolvillaspattaya.com.ico",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "21.28%",
+    "uptime": "21.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -494,7 +495,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 123,
+      "2023-08-12": 28,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -857,8 +859,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   },
   {
@@ -867,7 +868,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/money.hotdogcondos.com.ico",
     "slug": "and-burger-money-system",
     "status": "down",
-    "uptime": "43.61%",
+    "uptime": "43.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -878,7 +879,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-11": 123,
+      "2023-08-12": 28,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -1241,8 +1243,7 @@
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
-      "2022-08-13": 1440,
-      "2022-08-12": 1440
+      "2022-08-13": 1440
     }
   },
   {
@@ -1251,18 +1252,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough.dog.ico",
     "slug": "rough-dog",
     "status": "down",
-    "uptime": "48.71%",
+    "uptime": "48.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.36%",
-    "time": 1390,
+    "uptimeYear": "1.10%",
+    "time": 1391,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2449,
+    "timeYear": 2661,
     "dailyMinutesDown": {
-      "2023-08-11": 123,
+      "2023-08-12": 28,
+      "2023-08-11": 1440,
       "2023-08-10": 1440,
       "2023-08-09": 1440,
       "2023-08-08": 1440,
@@ -1637,9 +1639,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.83%",
     "time": 1365,
-    "timeDay": 991,
-    "timeWeek": 2105,
-    "timeMonth": 1310,
+    "timeDay": 901,
+    "timeWeek": 2086,
+    "timeMonth": 1304,
     "timeYear": 1370,
     "dailyMinutesDown": {
       "2023-08-11": 27,
@@ -1657,8 +1659,7 @@
       "2022-12-04": 26,
       "2022-08-29": 112,
       "2022-08-25": 86,
-      "2022-08-13": 59,
-      "2022-08-12": 2
+      "2022-08-13": 59
     }
   },
   {
@@ -1673,10 +1674,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 283,
-    "timeWeek": 170,
-    "timeMonth": 332,
-    "timeYear": 299,
+    "timeDay": 227,
+    "timeWeek": 171,
+    "timeMonth": 336,
+    "timeYear": 296,
     "dailyMinutesDown": {
       "2022-08-31": 20
     }

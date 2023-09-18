@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-18": 878,
+      "2023-09-18": 884,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -391,8 +391,8 @@
     "status": "up",
     "uptime": "86.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.28%",
-    "uptimeMonth": "14.04%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "14.05%",
     "uptimeYear": "70.69%",
     "time": 1482,
     "timeDay": 1424,
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-18": 878,
+      "2023-09-18": 885,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -911,7 +911,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-18": 878,
+      "2023-09-18": 885,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -1295,7 +1295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-18": 878,
+      "2023-09-18": 885,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
@@ -1700,19 +1700,19 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 194,
-    "timeWeek": 296,
-    "timeMonth": 247,
+    "timeDay": 195,
+    "timeWeek": 285,
+    "timeMonth": 245,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-09-18": 0
+      "2023-09-18": 6
     }
   }
 ]

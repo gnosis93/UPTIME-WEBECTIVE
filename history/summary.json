@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hotdogcondos.com.ico",
     "slug": "hot-dog-condos",
     "status": "down",
-    "uptime": "44.50%",
+    "uptime": "44.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1913,
+    "time": 1916,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 32,
+      "2023-11-01": 34,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -379,8 +380,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "86.93%",
+    "uptime": "86.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.69%",
     "time": 1490,
-    "timeDay": 1464,
-    "timeWeek": 1558,
+    "timeDay": 1721,
+    "timeWeek": 1559,
     "timeMonth": 1563,
-    "timeYear": 1478,
+    "timeYear": 1479,
     "dailyMinutesDown": {
       "2023-09-13": 1095,
       "2023-09-12": 1440,
@@ -516,7 +516,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestpoolvillaspattaya.com.ico",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "19.20%",
+    "uptime": "19.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -527,7 +527,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 32,
+      "2023-11-01": 34,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -890,8 +891,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   },
   {
@@ -900,18 +900,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/money.hotdogcondos.com.ico",
     "slug": "and-burger-money-system",
     "status": "down",
-    "uptime": "39.23%",
+    "uptime": "39.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1124,
+    "time": 1106,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 32,
+      "2023-11-01": 34,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -1274,8 +1275,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   },
   {
@@ -1284,18 +1284,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough.dog.ico",
     "slug": "rough-dog",
     "status": "down",
-    "uptime": "43.68%",
+    "uptime": "43.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1412,
+    "time": 1435,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-31": 32,
+      "2023-11-01": 34,
+      "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
@@ -1658,8 +1659,7 @@
       "2022-11-05": 1440,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
-      "2022-11-02": 1440,
-      "2022-11-01": 1440
+      "2022-11-02": 1440
     }
   },
   {
@@ -1674,9 +1674,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1334,
-    "timeDay": 1025,
-    "timeWeek": 1009,
-    "timeMonth": 1243,
+    "timeDay": 986,
+    "timeWeek": 1019,
+    "timeMonth": 1247,
     "timeYear": 1257,
     "dailyMinutesDown": {
       "2023-08-26": 15,
@@ -1706,10 +1706,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 223,
-    "timeWeek": 159,
-    "timeMonth": 135,
+    "time": 272,
+    "timeDay": 204,
+    "timeWeek": 174,
+    "timeMonth": 141,
     "timeYear": 268,
     "dailyMinutesDown": {}
   }

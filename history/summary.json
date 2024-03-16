@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 237,
+      "2024-03-16": 281,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 237,
+      "2024-03-16": 281,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -911,7 +911,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 237,
+      "2024-03-16": 281,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1295,7 +1295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-16": 237,
+      "2024-03-16": 281,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -1696,19 +1696,19 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 245,
+    "time": 246,
     "timeDay": 161,
     "timeWeek": 170,
     "timeMonth": 158,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2024-03-16": 6
+      "2024-03-16": 0
     }
   }
 ]

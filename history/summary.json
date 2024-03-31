@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hotdogcondos.com.ico",
     "slug": "hot-dog-condos",
     "status": "down",
-    "uptime": "37.64%",
+    "uptime": "37.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 31,
+      "2024-03-31": 36,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -379,8 +380,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "88.95%",
+    "uptime": "88.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.69%",
     "time": 1504,
-    "timeDay": 1516,
-    "timeWeek": 1552,
-    "timeMonth": 1518,
-    "timeYear": 1421,
+    "timeDay": 1645,
+    "timeWeek": 1549,
+    "timeMonth": 1522,
+    "timeYear": 1422,
     "dailyMinutesDown": {
       "2023-09-13": 1095,
       "2023-09-12": 1440,
@@ -516,10 +516,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestpoolvillaspattaya.com.ico",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "16.24%",
+    "uptime": "16.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -527,7 +527,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 31,
+      "2024-03-31": 36,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -890,8 +891,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -900,10 +900,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/money.hotdogcondos.com.ico",
     "slug": "and-burger-money-system",
     "status": "down",
-    "uptime": "33.05%",
+    "uptime": "33.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -911,7 +911,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 31,
+      "2024-03-31": 36,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -1274,8 +1275,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -1284,10 +1284,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough.dog.ico",
     "slug": "rough-dog",
     "status": "down",
-    "uptime": "36.62%",
+    "uptime": "36.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1295,7 +1295,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 31,
+      "2024-03-31": 36,
+      "2024-03-30": 1440,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -1658,8 +1659,7 @@
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
-      "2023-04-02": 1440,
-      "2023-04-01": 1440
+      "2023-04-02": 1440
     }
   },
   {
@@ -1673,11 +1673,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 1220,
-    "timeDay": 958,
-    "timeWeek": 969,
-    "timeMonth": 1040,
-    "timeYear": 1217,
+    "time": 1219,
+    "timeDay": 844,
+    "timeWeek": 947,
+    "timeMonth": 1034,
+    "timeYear": 1216,
     "dailyMinutesDown": {
       "2024-02-22": 31,
       "2024-02-21": 496,
@@ -1702,9 +1702,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 560,
-    "timeWeek": 203,
-    "timeMonth": 154,
+    "timeDay": 59,
+    "timeWeek": 198,
+    "timeMonth": 151,
     "timeYear": 209,
     "dailyMinutesDown": {}
   }

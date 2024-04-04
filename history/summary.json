@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hotdogcondos.com.ico",
     "slug": "hot-dog-condos",
     "status": "down",
-    "uptime": "37.48%",
+    "uptime": "37.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 32,
+      "2024-04-04": 33,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -379,8 +380,7 @@
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
-      "2023-04-06": 1440,
-      "2023-04-05": 1440
+      "2023-04-06": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "88.99%",
+    "uptime": "89.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.69%",
     "time": 1506,
-    "timeDay": 1618,
-    "timeWeek": 1636,
-    "timeMonth": 1531,
+    "timeDay": 1671,
+    "timeWeek": 1644,
+    "timeMonth": 1545,
     "timeYear": 1422,
     "dailyMinutesDown": {
       "2023-09-13": 1095,
@@ -516,7 +516,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/forestpoolvillaspattaya.com.ico",
     "slug": "forest-pool-villas-pattaya",
     "status": "down",
-    "uptime": "16.18%",
+    "uptime": "16.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -527,7 +527,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 32,
+      "2024-04-04": 33,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -890,8 +891,7 @@
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
-      "2023-04-06": 1440,
-      "2023-04-05": 1440
+      "2023-04-06": 1440
     }
   },
   {
@@ -900,7 +900,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/money.hotdogcondos.com.ico",
     "slug": "and-burger-money-system",
     "status": "down",
-    "uptime": "32.92%",
+    "uptime": "32.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -911,7 +911,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 32,
+      "2024-04-04": 33,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -1274,8 +1275,7 @@
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
-      "2023-04-06": 1440,
-      "2023-04-05": 1440
+      "2023-04-06": 1440
     }
   },
   {
@@ -1284,7 +1284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rough.dog.ico",
     "slug": "rough-dog",
     "status": "down",
-    "uptime": "36.46%",
+    "uptime": "36.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1295,7 +1295,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-03": 32,
+      "2024-04-04": 33,
+      "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
@@ -1658,8 +1659,7 @@
       "2023-04-09": 1440,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
-      "2023-04-06": 1440,
-      "2023-04-05": 1440
+      "2023-04-06": 1440
     }
   },
   {
@@ -1674,9 +1674,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1217,
-    "timeDay": 1058,
-    "timeWeek": 942,
-    "timeMonth": 1031,
+    "timeDay": 894,
+    "timeWeek": 939,
+    "timeMonth": 1022,
     "timeYear": 1217,
     "dailyMinutesDown": {
       "2024-02-22": 31,
@@ -1701,10 +1701,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 75,
-    "timeWeek": 190,
+    "timeDay": 36,
+    "timeWeek": 173,
     "timeMonth": 151,
-    "timeYear": 209,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   }
 ]

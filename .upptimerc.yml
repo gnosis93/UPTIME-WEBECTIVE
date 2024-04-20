@@ -14,9 +14,9 @@ sites:
   - name: Maps System
     url: https://maps.pattayainteriordesigner.com/login/
   - name: portainer
-    url: http://portainer.webective.com/
+    url: https://portainer.webective.com/
   - name: kurzus statging
-    url: http://kurzus.webective.com/
+    url: https://kurzus.webective.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

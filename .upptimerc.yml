@@ -12,11 +12,11 @@ sites:
   - name: Contracts System
     url: https://contracts.pattayainteriordesigner.com/
   - name: Maps System
-    url: https://maps.pattayainteriordesigner.com/login
+    url: https://maps.pattayainteriordesigner.com/login/
   - name: portainer
-    URL: http://portainer.webective.com/
+    url: http://portainer.webective.com/
   - name: kurzus statging
-    URL: http://kurzus.webective.com/
+    url: http://kurzus.webective.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

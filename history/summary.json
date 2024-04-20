@@ -248,19 +248,19 @@
     "url": "https://kurzus.webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 693,
-    "timeDay": 693,
-    "timeWeek": 693,
-    "timeMonth": 693,
-    "timeYear": 693,
+    "status": "up",
+    "uptime": "95.43%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
+    "time": 737,
+    "timeDay": 737,
+    "timeWeek": 737,
+    "timeMonth": 737,
+    "timeYear": 737,
     "dailyMinutesDown": {
-      "2024-04-20": 0
+      "2024-04-20": 19
     }
   }
 ]

@@ -19,6 +19,8 @@ sites:
     url: https://portainer.webective.com/
   - name: kurzus statging
     url: https://kurzus.webective.com/
+  - name: kurzus production
+    url: https://kurzus.intellident.hu/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -269,17 +269,19 @@
     "url": "https://kurzus.intellident.hu/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.intellident.hu.ico",
     "slug": "kurzus-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 856,
-    "timeWeek": 947,
-    "timeMonth": 898,
-    "timeYear": 898,
-    "dailyMinutesDown": {}
+    "time": 925,
+    "timeDay": 1214,
+    "timeWeek": 1025,
+    "timeMonth": 925,
+    "timeYear": 925,
+    "dailyMinutesDown": {
+      "2024-05-21": 0
+    }
   }
 ]

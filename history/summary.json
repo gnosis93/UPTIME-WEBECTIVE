@@ -130,19 +130,19 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 121,
-    "timeWeek": 147,
-    "timeMonth": 221,
+    "timeDay": 126,
+    "timeWeek": 146,
+    "timeMonth": 218,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 6
     }
   },
   {

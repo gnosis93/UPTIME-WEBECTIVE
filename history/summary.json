@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.81%",
+    "uptimeYear": "85.83%",
     "time": 1510,
     "timeDay": 1621,
     "timeWeek": 1679,
@@ -83,8 +83,7 @@
       "2023-07-29": 1440,
       "2023-07-28": 1440,
       "2023-07-27": 1440,
-      "2023-07-26": 1440,
-      "2023-07-25": 1440
+      "2023-07-26": 1440
     }
   },
   {
@@ -94,17 +93,18 @@
     "slug": "bill-bags",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 1305,
     "timeDay": 1004,
     "timeWeek": 1533,
     "timeMonth": 1289,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2024-07-23": 0,
+      "2024-07-24": 38,
+      "2024-07-23": 33,
       "2024-05-02": 107,
       "2024-02-22": 31,
       "2024-02-21": 496,

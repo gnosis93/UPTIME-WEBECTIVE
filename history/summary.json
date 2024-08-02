@@ -27,7 +27,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.29%",
+    "uptimeYear": "88.34%",
     "time": 1514,
     "timeDay": 1941,
     "timeWeek": 1537,
@@ -205,17 +205,19 @@
     "url": "https://kurzus.intellident.hu/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.intellident.hu.ico",
     "slug": "kurzus-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 989,
-    "timeWeek": 1022,
-    "timeMonth": 1072,
-    "timeYear": 968,
-    "dailyMinutesDown": {}
+    "time": 981,
+    "timeDay": 1600,
+    "timeWeek": 1171,
+    "timeMonth": 1108,
+    "timeYear": 981,
+    "dailyMinutesDown": {
+      "2024-08-02": 0
+    }
   }
 ]

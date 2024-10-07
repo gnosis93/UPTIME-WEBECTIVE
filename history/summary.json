@@ -24,9 +24,9 @@
     "slug": "and-burger",
     "status": "up",
     "uptime": "90.74%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2016,
     "timeDay": 21962,
@@ -34,7 +34,6 @@
     "timeMonth": 6982,
     "timeYear": 2205,
     "dailyMinutesDown": {
-      "2024-10-06": 12,
       "2024-08-26": 103
     }
   },

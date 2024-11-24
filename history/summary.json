@@ -131,10 +131,10 @@
     "url": "https://portainer.webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.webective.com.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
@@ -142,16 +142,18 @@
     "timeWeek": 609,
     "timeMonth": 607,
     "timeYear": 591,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-24": 1
+    }
   },
   {
     "name": "kurzus statging",
     "url": "https://kurzus.webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -161,6 +163,7 @@
     "timeMonth": 1057,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-11-24": 0,
       "2024-04-20": 19
     }
   },
@@ -170,11 +173,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.intellident.hu.ico",
     "slug": "kurzus-production",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 1110,
     "timeDay": 1236,
     "timeWeek": 1152,

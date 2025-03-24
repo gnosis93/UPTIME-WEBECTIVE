@@ -22,17 +22,17 @@
     "url": "https://andburger.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "35.73%",
-    "uptimeWeek": "59.21%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "99.22%",
-    "time": 9089,
+    "uptimeDay": "37.59%",
+    "uptimeWeek": "59.64%",
+    "uptimeMonth": "90.71%",
+    "uptimeYear": "99.23%",
+    "time": 9099,
     "timeDay": 19061,
     "timeWeek": 22666,
     "timeMonth": 20946,
-    "timeYear": 11077,
+    "timeYear": 11093,
     "dailyMinutesDown": {
       "2025-03-24": 883,
       "2025-03-23": 1092,
@@ -40,7 +40,7 @@
       "2025-03-21": 356,
       "2025-03-20": 402,
       "2025-03-19": 361,
-      "2025-03-18": 318
+      "2025-03-18": 275
     }
   },
   {
@@ -136,7 +136,7 @@
     "timeMonth": 438,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2025-03-24": 1390,
+      "2025-03-24": 1417,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,

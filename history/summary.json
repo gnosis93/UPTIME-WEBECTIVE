@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 174,
-    "timeWeek": 194,
-    "timeMonth": 305,
+    "timeDay": 0,
+    "timeWeek": 187,
+    "timeMonth": 313,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -22,16 +22,16 @@
     "url": "https://andburger.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "13.31%",
-    "uptimeWeek": "31.05%",
-    "uptimeMonth": "84.13%",
+    "uptimeDay": "13.30%",
+    "uptimeWeek": "31.38%",
+    "uptimeMonth": "84.21%",
     "uptimeYear": "98.68%",
-    "time": 9878,
+    "time": 9888,
     "timeDay": 16832,
-    "timeWeek": 18432,
-    "timeMonth": 20115,
+    "timeWeek": 18385,
+    "timeMonth": 20162,
     "timeYear": 11917,
     "dailyMinutesDown": {
       "2025-03-29": 1209,
@@ -40,7 +40,7 @@
       "2025-03-26": 1300,
       "2025-03-25": 1173,
       "2025-03-24": 906,
-      "2025-03-23": 95
+      "2025-03-23": 62
     }
   },
   {
@@ -57,7 +57,7 @@
     "time": 173,
     "timeDay": 127,
     "timeWeek": 167,
-    "timeMonth": 169,
+    "timeMonth": 170,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2024-07-27": 17
@@ -77,7 +77,7 @@
     "time": 966,
     "timeDay": 1033,
     "timeWeek": 957,
-    "timeMonth": 952,
+    "timeMonth": 948,
     "timeYear": 966,
     "dailyMinutesDown": {}
   },
@@ -95,7 +95,7 @@
     "time": 714,
     "timeDay": 718,
     "timeWeek": 699,
-    "timeMonth": 706,
+    "timeMonth": 705,
     "timeYear": 714,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 581,
     "timeDay": 502,
     "timeWeek": 562,
-    "timeMonth": 570,
+    "timeMonth": 574,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2024-11-24": 50
@@ -133,10 +133,10 @@
     "time": 889,
     "timeDay": 405,
     "timeWeek": 426,
-    "timeMonth": 441,
+    "timeMonth": 444,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2025-03-29": 1375,
+      "2025-03-29": 1383,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -269,7 +269,7 @@
     "time": 1078,
     "timeDay": 1135,
     "timeWeek": 1105,
-    "timeMonth": 1075,
+    "timeMonth": 1085,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2024-09-02": 680,

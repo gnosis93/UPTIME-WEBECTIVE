@@ -4,9 +4,9 @@
     "url": "https://www.pattayainteriordesigner.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pattayainteriordesigner.com.ico",
     "slug": "pattaya-interior-designer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 238,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-04-28": 20
     }
   },
@@ -53,9 +54,9 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -65,6 +66,7 @@
     "timeMonth": 164,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2025-07-23": 0,
       "2025-05-07": 24,
       "2024-07-27": 17
     }
@@ -132,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "50.00%",
+    "uptime": "49.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.18%",
+    "uptimeYear": "37.10%",
     "time": 767,
     "timeDay": 403,
     "timeWeek": 454,
     "timeMonth": 457,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-07-23": 6,
+      "2025-07-23": 403,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
       "2025-07-20": 1440,

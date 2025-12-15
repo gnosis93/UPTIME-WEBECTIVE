@@ -198,7 +198,7 @@
     "timeMonth": 465,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2025-12-15": 1001,
+      "2025-12-15": 1014,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -570,19 +570,19 @@
     "url": "https://kurzus.intellident.hu/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.intellident.hu.ico",
     "slug": "kurzus-production",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1116,
-    "timeDay": 786,
-    "timeWeek": 1085,
+    "timeDay": 888,
+    "timeWeek": 1073,
     "timeMonth": 1013,
     "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-12-15": 0
+      "2025-12-15": 12
     }
   }
 ]

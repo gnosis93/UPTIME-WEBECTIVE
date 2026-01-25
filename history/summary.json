@@ -25,18 +25,19 @@
     "url": "https://andburger.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
-    "status": "up",
+    "status": "down",
     "uptime": "96.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.81%",
     "uptimeYear": "85.54%",
-    "time": 12617,
+    "time": 12627,
     "timeDay": 2059,
     "timeWeek": 2035,
     "timeMonth": 12501,
     "timeYear": 14127,
     "dailyMinutesDown": {
+      "2026-01-25": 0,
       "2025-12-29": 386,
       "2025-12-28": 970,
       "2025-12-25": 40,
@@ -103,7 +104,7 @@
       "2025-04-02": 1389,
       "2025-04-01": 1360,
       "2025-03-31": 1361,
-      "2025-03-30": 338
+      "2025-03-30": 290
     }
   },
   {
@@ -191,7 +192,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "35.57%",
+    "uptime": "35.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -202,7 +203,7 @@
     "timeMonth": 468,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-01-25": 7,
+      "2026-01-25": 585,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,

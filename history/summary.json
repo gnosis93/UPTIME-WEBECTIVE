@@ -4,9 +4,9 @@
     "url": "https://www.pattayainteriordesigner.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pattayainteriordesigner.com.ico",
     "slug": "pattaya-interior-designer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 328,
     "timeYear": 300,
     "dailyMinutesDown": {
+      "2026-02-11": 0,
       "2025-10-20": 29,
       "2025-04-28": 20
     }
@@ -26,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -35,7 +36,7 @@
     "timeDay": 1303,
     "timeWeek": 1331,
     "timeMonth": 1444,
-    "timeYear": 14074,
+    "timeYear": 14056,
     "dailyMinutesDown": {
       "2025-12-29": 386,
       "2025-12-28": 970,
@@ -111,9 +112,9 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -123,6 +124,7 @@
     "timeMonth": 277,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2026-02-11": 0,
       "2025-10-20": 62,
       "2025-08-02": 37,
       "2025-05-07": 24
@@ -194,7 +196,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "34.66%",
+    "uptime": "34.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -205,7 +207,7 @@
     "timeMonth": 512,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2026-02-11": 13,
+      "2026-02-11": 726,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,

@@ -4,12 +4,12 @@
     "url": "https://www.pattayainteriordesigner.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pattayainteriordesigner.com.ico",
     "slug": "pattaya-interior-designer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
     "time": 351,
     "timeDay": 550,
     "timeWeek": 418,
@@ -21,7 +21,8 @@
       "2026-03-11": 40,
       "2026-04-10": 16,
       "2026-05-19": 28,
-      "2026-06-07": 30
+      "2026-06-07": 30,
+      "2026-06-14": 30
     }
   },
   {
@@ -29,13 +30,13 @@
     "url": "https://andburger.in.th/",
     "icon": "https://icons.duckduckgo.com/ip3/andburger.in.th.ico",
     "slug": "and-burger",
-    "status": "up",
-    "uptime": "96.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "84.14%",
-    "time": 7283,
+    "time": 7248,
     "timeDay": 4545,
     "timeWeek": 4157,
     "timeMonth": 4018,
@@ -116,7 +117,8 @@
       "2026-04-05": 1440,
       "2026-04-04": 999,
       "2026-04-22": 72,
-      "2026-06-07": 24
+      "2026-06-07": 24,
+      "2026-06-14": 23
     }
   },
   {
@@ -124,13 +126,13 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
-    "time": 250,
+    "time": 251,
     "timeDay": 53,
     "timeWeek": 286,
     "timeMonth": 298,
@@ -141,7 +143,8 @@
       "2026-02-11": 23,
       "2026-03-11": 20,
       "2026-05-19": 32,
-      "2026-06-07": 17
+      "2026-06-07": 17,
+      "2026-06-14": 16
     }
   },
   {
@@ -149,36 +152,40 @@
     "url": "https://contracts.pattayainteriordesigner.com/",
     "icon": "https://icons.duckduckgo.com/ip3/contracts.pattayainteriordesigner.com.ico",
     "slug": "contracts-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 988,
     "timeDay": 1487,
     "timeWeek": 1449,
     "timeMonth": 1400,
     "timeYear": 1004,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-14": 9
+    }
   },
   {
     "name": "Maps System",
     "url": "https://maps.pattayainteriordesigner.com/login/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.pattayainteriordesigner.com.ico",
     "slug": "maps-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 708,
+    "time": 707,
     "timeDay": 779,
     "timeWeek": 716,
     "timeMonth": 705,
     "timeYear": 709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-14": 2
+    }
   },
   {
     "name": "portainer",
@@ -210,7 +217,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "29.23%",
+    "uptime": "29.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -221,7 +228,7 @@
     "timeMonth": 387,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2026-06-14": 29,
+      "2026-06-14": 993,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,

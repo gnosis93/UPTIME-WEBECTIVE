@@ -4,17 +4,17 @@
     "url": "https://www.pattayainteriordesigner.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.pattayainteriordesigner.com.ico",
     "slug": "pattaya-interior-designer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
-    "time": 382,
-    "timeDay": 153,
-    "timeWeek": 434,
-    "timeMonth": 457,
-    "timeYear": 413,
+    "time": 381,
+    "timeDay": 120,
+    "timeWeek": 385,
+    "timeMonth": 445,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2025-10-20": 29,
       "2026-02-11": 23,
@@ -24,7 +24,7 @@
       "2026-06-07": 30,
       "2026-06-14": 36,
       "2026-07-25": 31,
-      "2026-08-30": 3
+      "2026-08-30": 4
     }
   },
   {
@@ -35,12 +35,12 @@
     "status": "up",
     "uptime": "96.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.54%",
+    "uptimeWeek": "91.55%",
     "uptimeMonth": "86.31%",
     "uptimeYear": "86.41%",
     "time": 6912,
     "timeDay": 3227,
-    "timeWeek": 3294,
+    "timeWeek": 3484,
     "timeMonth": 3393,
     "timeYear": 7652,
     "dailyMinutesDown": {
@@ -154,7 +154,7 @@
     "uptimeYear": "100.00%",
     "time": 1060,
     "timeDay": 1148,
-    "timeWeek": 1400,
+    "timeWeek": 1386,
     "timeMonth": 1364,
     "timeYear": 1095,
     "dailyMinutesDown": {
@@ -216,7 +216,7 @@
     "uptimeYear": "0.00%",
     "time": 446,
     "timeDay": 462,
-    "timeWeek": 402,
+    "timeWeek": 417,
     "timeMonth": 410,
     "timeYear": 443,
     "dailyMinutesDown": {
@@ -600,7 +600,7 @@
     "uptimeYear": "100.00%",
     "time": 1039,
     "timeDay": 977,
-    "timeWeek": 835,
+    "timeWeek": 839,
     "timeMonth": 904,
     "timeYear": 1002,
     "dailyMinutesDown": {

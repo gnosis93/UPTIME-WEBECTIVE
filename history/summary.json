@@ -35,8 +35,8 @@
     "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "91.83%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "91.84%",
     "time": 6924,
     "timeDay": 3143,
     "timeWeek": 3582,
@@ -201,7 +201,7 @@
     "timeMonth": 402,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2026-09-24": 7,
+      "2026-09-24": 36,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -573,20 +573,20 @@
     "url": "https://kurzus.intellident.hu/",
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.intellident.hu.ico",
     "slug": "kurzus-production",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 1234,
-    "timeWeek": 893,
-    "timeMonth": 951,
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 1032,
+    "timeDay": 1127,
+    "timeWeek": 909,
+    "timeMonth": 953,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2025-12-19": 15,
-      "2026-09-24": 5
+      "2026-09-24": 34
     }
   }
 ]

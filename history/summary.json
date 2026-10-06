@@ -36,12 +36,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.16%",
+    "uptimeYear": "95.20%",
     "time": 6931,
     "timeDay": 3451,
     "timeWeek": 3697,
     "timeMonth": 3628,
-    "timeYear": 7370,
+    "timeYear": 7380,
     "dailyMinutesDown": {
       "2025-10-11": 291,
       "2025-10-12": 755,
@@ -86,10 +86,10 @@
     "url": "https://webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webective.com.ico",
     "slug": "webective",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 276,
@@ -105,7 +105,8 @@
       "2026-06-07": 17,
       "2026-06-14": 23,
       "2026-07-25": 17,
-      "2026-09-21": 26
+      "2026-09-21": 26,
+      "2026-10-06": 1
     }
   },
   {
@@ -151,9 +152,9 @@
     "url": "https://portainer.webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.webective.com.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.61%",
     "uptimeYear": "99.01%",
@@ -169,7 +170,8 @@
       "2026-02-07": 600,
       "2026-03-19": 18,
       "2026-09-09": 995,
-      "2026-09-08": 928
+      "2026-09-08": 928,
+      "2026-10-06": 0
     }
   },
   {
@@ -178,7 +180,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "25.51%",
+    "uptime": "25.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -189,7 +191,7 @@
     "timeMonth": 380,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-10-06": 224,
+      "2026-10-06": 1212,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,

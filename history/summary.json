@@ -149,14 +149,14 @@
     "url": "https://portainer.webective.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.webective.com.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "27.41%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "39.44%",
     "uptimeMonth": "78.93%",
     "uptimeYear": "97.25%",
     "time": 592,
-    "timeDay": 436,
+    "timeDay": 432,
     "timeWeek": 602,
     "timeMonth": 574,
     "timeYear": 597,
@@ -176,7 +176,8 @@
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
-      "2026-10-18": 731
+      "2026-10-18": 731,
+      "2026-10-23": 1
     }
   },
   {
@@ -185,7 +186,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kurzus.webective.com.ico",
     "slug": "kurzus-statging",
     "status": "down",
-    "uptime": "25.04%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -196,7 +197,7 @@
     "timeMonth": 390,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2026-10-23": 8,
+      "2026-10-23": 1289,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
